@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+thead{
+
+	background-color:red;
+}
+
+tbody{
+	background-color:blue;
+}
